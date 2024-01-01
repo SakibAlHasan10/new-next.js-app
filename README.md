@@ -13,6 +13,11 @@ pnpm dev
 # or
 bun dev
 ```
+gggg
+<div>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreadcrumbsSakibAlHasan10&theme=github_dark)
+</div>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
