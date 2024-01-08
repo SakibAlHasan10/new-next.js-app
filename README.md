@@ -25,6 +25,10 @@ bun dev
 - using props name {params}
 - query route using {searchParams}
 
+#### Create nested route 
+
+- first create parent route then create nested route in parent route folder 
+
 <div>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreadcrumbsSakibAlHasan10&theme=github_dark)
