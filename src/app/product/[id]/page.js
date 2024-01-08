@@ -5,7 +5,8 @@ const DynamicPage = ({params, searchParams}) => {
     console.log(searchParams)
     return (
         <div>
-            <h2>This is a Dynamic Page</h2>
+            <h2>This is a Dynamic Page: {params.id}</h2>
+            <h2>{searchParams.category} {searchParams.price}</h2>
         </div>
     );
 };
