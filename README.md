@@ -20,8 +20,11 @@ bun dev
 
 - Create folder name as route name then create page.js file inside app folder.
 
-#### Dynamic route
+#### Dynamic route & Query 
 - folder name [id] inside the parent route folder 
+- using props name {params}
+- query route using {searchParams}
+
 <div>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreadcrumbsSakibAlHasan10&theme=github_dark)
