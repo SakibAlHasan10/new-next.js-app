@@ -1,6 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started NextJS
 
 First, run the development server:
 
@@ -13,7 +12,9 @@ pnpm dev
 # or
 bun dev
 ```
-gggg
+### Change Port
+
+- "dev": "next dev -p 3005"
 <div>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreadcrumbsSakibAlHasan10&theme=github_dark)
