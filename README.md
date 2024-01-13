@@ -35,7 +35,7 @@ bun dev
 
 ### Server component convert to client component
 
-- Client component using use client
+- Client component using "use client"
 <div>
   
 
