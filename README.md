@@ -29,6 +29,10 @@ bun dev
 
 - first create parent route then create nested route in parent route folder 
 
+### Server COmponent vs Client site Component
+
+![](./public/images/readme/server%20vs%20client.PNG)
+
 <div>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreadcrumbsSakibAlHasan10&theme=github_dark)
