@@ -9,7 +9,7 @@ const Counter = () => {
     <div>
       <h2>counter: {counter}</h2>
       <button
-        className="btn text-blue-500"
+        className="btn btn-primary"
         onClick={() => setCounter(counter + 1)}
       >
         incricse
