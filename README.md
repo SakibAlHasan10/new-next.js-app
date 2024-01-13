@@ -22,8 +22,8 @@ bun dev
 
 #### Dynamic route & Query 
 - folder name [id] inside the parent route folder 
-- using props name {params}
-- query route using {searchParams}
+- using props name {params} for achieve dynamic ID key and value 
+- query route using {searchParams} for achieve query key and value
 
 #### Create nested route 
 
