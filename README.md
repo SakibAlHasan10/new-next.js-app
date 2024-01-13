@@ -36,6 +36,10 @@ bun dev
 ### Server component convert to client component
 
 - Client component using "use client"
+
+### Create client component
+
+![](./public/images/readme/client%20component.PNG)
 <div>
   
 
