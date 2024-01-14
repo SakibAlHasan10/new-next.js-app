@@ -39,7 +39,10 @@ bun dev
 
 ### Create client component
 
-![](./public/images/readme/client%20component.PNG)
+- All client component create in components folder
+
+![](./public/images/readme/client%20component.png)
+
 <div>
   
 
