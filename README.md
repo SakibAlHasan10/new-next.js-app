@@ -66,6 +66,10 @@ bun dev
 ### NextJS Navigation
 - Using Link  for Navigation
 
+### Page title 
+
+- Using metadata and title and description
+
 
 
 
