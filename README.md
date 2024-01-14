@@ -56,6 +56,11 @@ bun dev
 - template - Specialized re-rendered Layout UI
 - default - Fallback UI for Parallel Routes
 
+### Groping Route
+
+- Groupe layout folder name in (folder name)
+- Create route folder and page file in groupe folder route
+- Create layout page in groupe folder route
 <div>
   
 
