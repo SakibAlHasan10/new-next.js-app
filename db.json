@@ -1,0 +1,45 @@
+{
+    "post":[
+        {
+          "id": 1,
+          "name": "Product A",
+          "description": "Product A is a versatile solution designed for efficiency and ease of use. With advanced features and a sleek design, it's perfect for both personal and professional use, making your tasks simpler and more enjoyable."
+        },
+        {
+          "id": 2,
+          "name": "Service X",
+          "description": "Service X offers a comprehensive set of tools to meet your needs. From expert consultations to personalized solutions, our team is dedicated to delivering high-quality services, ensuring your satisfaction and success in every endeavor."
+        },
+        {
+          "id": 3,
+          "name": "Project Alpha",
+          "description": "Embark on a journey with Project Alpha, a groundbreaking initiative that aims to redefine industry standards. Fueled by innovation and collaboration, this project promises to create positive impact and shape the future of technology and beyond."
+        },
+        {
+          "id": 4,
+          "name": "Event Horizon",
+          "description": "Join us at Event Horizon, an immersive experience that transcends boundaries. From captivating speakers to interactive workshops, this event is a unique opportunity to connect, learn, and be inspired. Don't miss out on this transformative journey."
+        },
+        {
+          "id": 5,
+          "name": "Discovery Hub",
+          "description": "Welcome to Discovery Hub, a hub of knowledge and exploration. Dive into a world of discovery with curated content and engaging resources. Whether you're a learner, researcher, or enthusiast, there's always something new to explore at Discovery Hub."
+        },
+        {
+          "id": 6,
+          "name": "Innovate Now",
+          "description": "Innovate Now is your gateway to innovation and progress. Unleash your creativity, explore cutting-edge solutions, and collaborate with like-minded visionaries. Join us on this transformative journey as we shape the future together."
+        },
+        {
+          "id": 7,
+          "name": "Wellness Haven",
+          "description": "At Wellness Haven, we prioritize your well-being. From fitness programs to mindfulness practices, we offer a holistic approach to health. Join our community and embark on a journey towards a healthier, happier you."
+        },
+        {
+          "id": 8,
+          "name": "GreenTech Solutions",
+          "description": "GreenTech Solutions is committed to environmental sustainability. Our innovative solutions harness the power of technology to address environmental challenges. Join us in creating a greener, more sustainable future for generations to come."
+        }
+      ]
+      
+}
