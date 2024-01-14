@@ -61,11 +61,11 @@ bun dev
 - Groupe layout folder name in (folder name)
 - Create route folder and page file in groupe folder route
 - Create layout page in groupe folder route
-<div>
-  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreadcrumbsSakibAlHasan10&theme=github_dark)
-</div>
+
+### NextJS Navigation
+- Using Link  for Navigation
+
 
 
 
