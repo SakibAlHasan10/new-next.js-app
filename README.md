@@ -82,6 +82,9 @@ images:{
 ### Create json fake sever
 - install json-server
 
+### Set Alternative port
+
+- using "json-server": "json-server --watch db.json --port 3004" in package.json
 
 
 
