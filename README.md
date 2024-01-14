@@ -70,6 +70,15 @@ bun dev
 
 - Using metadata and title and description
 
+### Image Optimize in NextJS 
+
+- Using Image component, width, height, and alt.
+- If these images are external then they must be used inside the next.config.js file 
+
+images:{
+        domains:["mobisoftinfotech.com"]
+    }
+
 
 
 
