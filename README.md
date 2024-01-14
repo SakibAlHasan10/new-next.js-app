@@ -41,7 +41,7 @@ bun dev
 
 - All client component create in components folder
 
-![](./public/images/readme/client%20component.png)
+<img src="./public/images/readme/client%20component.png">
 
 ### NextJS Build-in Route
 
